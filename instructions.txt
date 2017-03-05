@@ -1,0 +1,21 @@
+Gestion des branches sur git
+
+On ajoute un projet à github Desktop
+
+On le publie sur github
+
+On commit pour l'ajouter à git
+
+On synchronise pour que tout le projet soit ajouter sur github.com
+ 
+création d'une nouvelle branche (anouchka)
+
+On synchronise/publie pour que la branche apparaisse en ligne sur github.com (avec le bouton "sync" ou "Publish" à droite en haut)
+
+On modifie le projet en restant sur la branche(anouchka)
+
+On commit et on synchronise les modifications sur github.com uniquement sur la branche anouchka
+
+On crée un "pull request" sur la branche anouchka pour envoyer des fusion sur github.com
+
+Sur github.com on pourra faire depuis la branche anouchka un "New pull request"
